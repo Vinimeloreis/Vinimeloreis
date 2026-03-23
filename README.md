@@ -1,36 +1,4 @@
-<h1 align="center">Hello 👋, I'm Vinicius Melo</h1>
-<h3 align="center">Mobile devloper focused on React Native</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViniMelo-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusmelo" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 👨‍💻 Mobile Developer
-- 🌱 I'm learning and diving deeper into **React/React Native, Typescript**
-- 🎯 Passionate about turning ideas into intuitive, functional, and creative interfaces
----
-
-### 🛠️ Technologies and Tools I use:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Three.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
-  <img align="center" alt="Blender" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
-</div>
-
----
-
+Olá, me chamo Vinícius Melo, sou graduando em Tecnologia da Informação e atualmente estou focado na área de desenvolvimento mobile, utilizando tecnologias como React Native, TypeScript, JavaScript, Expo e integração com APIs REST. Tenho experiência no desenvolvimento de aplicativos e também no front-end de sites, trabalhando com HTML, CSS e frameworks modernos. Busco constantemente aprimorar minhas habilidades em arquitetura de aplicações, boas práticas de desenvolvimento e criação de interfaces intuitivas e performáticas. Estou em busca de oportunidades para aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções tecnológicas eficientes.
 ### 📊 GitHub Stats
 
 <div style="display: flex; gap: 16px; width: 100%;">
