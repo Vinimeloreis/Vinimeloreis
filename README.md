@@ -1,4 +1,7 @@
-Olá, me chamo Vinícius Melo, sou graduando em Tecnologia da Informação e atualmente estou focado na área de desenvolvimento mobile, utilizando tecnologias como React Native, TypeScript, JavaScript, Expo e integração com APIs REST. Tenho experiência no desenvolvimento de aplicativos e também no front-end de sites, trabalhando com HTML, CSS e frameworks modernos. Busco constantemente aprimorar minhas habilidades em arquitetura de aplicações, boas práticas de desenvolvimento e criação de interfaces intuitivas e performáticas. Estou em busca de oportunidades para aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções tecnológicas eficientes.
+Olá, me chamo Vinícius Melo, sou graduando em Tecnologia da Informação e atualmente estou focado na área de desenvolvimento mobile, utilizando tecnologias como React Native, TypeScript, JavaScript, Expo e integração com APIs REST. Tenho experiência no desenvolvimento de aplicativos e também no front-end de sites, trabalhando com HTML, CSS e frameworks modernos. 
+
+Hello, my name is Vinícius Melo, I am an undergraduate student in Information Technology and I am currently focused on mobile development, using technologies such as React Native, TypeScript, JavaScript, Expo, and REST API integration. I have experience in developing mobile applications as well as front-end websites, working with HTML, CSS, and modern frameworks.
+
 ### 📊 GitHub Stats
 
 <div style="display: flex; gap: 16px; width: 100%;">
