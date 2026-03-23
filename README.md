@@ -10,10 +10,8 @@
 ### 🚀 About Me
 
 - 👨‍💻 Currently working as a **Front-End Developer**
-- 🌱 I'm learning and diving deeper into **React/React Native, Vue.js, 3D Design with Three.js and Blender**
+- 🌱 I'm learning and diving deeper into **React/React Native, Typescript**
 - 🎯 Passionate about turning ideas into intuitive, functional, and creative interfaces
-- ⚡ Fun facts: I love technology, 3D Design (Three.js + Blender), and I'm always looking for new challenges
-
 ---
 
 ### 🛠️ Technologies and Tools I use:
