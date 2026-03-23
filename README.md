@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Vinicius Melo</h1>
-<h3 align="center">Front-End Developer focused on React and React Native</h3>
+<h3 align="center">Mobile devloper focused on React Native</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ViniMelo-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusmelo" />
