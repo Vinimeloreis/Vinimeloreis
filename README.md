@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Currently working as a **Front-End Developer**
+- 👨‍💻 Mobile Developer
 - 🌱 I'm learning and diving deeper into **React/React Native, Typescript**
 - 🎯 Passionate about turning ideas into intuitive, functional, and creative interfaces
 ---
